@@ -1,3 +1,11 @@
+mpc_local_planner ROS Package for kinetic devel
+=============================
+Developed from https://github.com/rst-tu-dortmund/mpc_local_planner
+
+
+
+
+
 mpc_local_planner ROS Package
 =============================
 
