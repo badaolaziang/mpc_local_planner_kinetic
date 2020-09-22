@@ -5,12 +5,19 @@ Developed from https://github.com/rst-tu-dortmund/mpc_local_planner
 necessary dependence downloading:
 
 sudo apt install coinor-libipopt-dev
+
 git clone https://github.com/rst-tu-dortmund/control_box_rst.git
+
 cd control_box_rst/
+
 mkdir build
+
 cd build
+
 cmake ..
+
 make -j8 -l8
+
 sudo make install
 
 
